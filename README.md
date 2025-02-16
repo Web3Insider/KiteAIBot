@@ -4,7 +4,7 @@ An automated interaction bot for Kite AI platform with multi-wallet and proxy su
 
 ## Register 
 
-- https://testnet.gokite.ai/?r=kxsQ3byj 
+- https://testnet.gokite.ai?r=HcA5ZYNw
 
 ## 🌟 Features
 
@@ -25,7 +25,7 @@ An automated interaction bot for Kite AI platform with multi-wallet and proxy su
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/airdropinsiders/KiteAi-Auto-Bot.git
+git clone https://github.com/Web3Insider/KiteAIBot.git
 cd KiteAi-Auto-Bot
 ```
 
