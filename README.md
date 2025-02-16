@@ -68,11 +68,6 @@ You can modify the following settings in `index.js`:
 - `agents`: Modify available AI agents
 - `intervalBetweenCycles`: Change delay between interaction cycles
 
-## 📢 Support
-
-Join our Telegram channel for updates and support:
-https://t.me/AirdropInsiderID
-
 ## ⚠️ Disclaimer
 
 This bot is for educational purposes only. Use at your own risk and ensure compliance with Kite AI's terms of service.
