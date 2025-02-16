@@ -44,8 +44,8 @@ socks5://user:pass@host:port
 
 2. Create a `wallets.txt` file for multiple wallets:
 ```
-0x1234567890abcdef1234567890abcdef12345678
-0xabcdef1234567890abcdef1234567890abcdef12
+Your EVM wallet address
+Your EVM wallet address
 ```
 
 ## 🚀 Usage
